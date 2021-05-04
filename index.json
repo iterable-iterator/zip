@@ -1,0 +1,1012 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/_zip.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\nimport {list} from '@iterable-iterator/list';\nimport {_next} from '@iterable-iterator/next';\nimport {map} from '@iterable-iterator/map';\n\n/**\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( _zip( [ 'abcd' , range(3) ] ) ) ;\n *\n * @param {Iterable[]} iterables - The iterables to zip.\n * @returns {IterableIterator}\n *\n */\nexport default function* _zip(iterables) {\n\tconst iterators = list(map(iter, iterables));\n\n\tif (iterators.length === 0) {\n\t\treturn;\n\t}\n\n\twhile (true) {\n\t\tconst buffer = [];\n\n\t\tfor (const result of map(_next, iterators)) {\n\t\t\tif (result.done) {\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\tbuffer.push(result.value);\n\t\t}\n\n\t\tyield buffer;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/_zip.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "_zip",
+    "memberof": "src/_zip.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_zip.js~_zip",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/_zip.js",
+    "importStyle": "_zip",
+    "description": "Zips iterables together. Yields a tuple containing the first element of each\niterable, then a tupe containing the second element of each iterable, etc.\nStops when one of the iterables runs out of elements.",
+    "examples": [
+      "// returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\nlist( _zip( [ 'abcd' , range(3) ] ) ) ;"
+    ],
+    "lineNumber": 19,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterables",
+        "description": "The iterables to zip."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/_zip2.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\n\n/**\n * Zips exactly two iterables together. Yields a tuple containing the first\n * element of each iterable, then a tupe containing the second element of each\n * iterable, etc.  Stops when one of the two iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( _zip2( 'abcd' , range(1, 4) ) ) ;\n *\n * @param {Iterable} A - The first iterable.\n * @param {Iterable} B - The second iterable.\n * @returns {IterableIterator}\n *\n */\nexport default function* _zip2(A, B) {\n\tconst iA = iter(A);\n\tconst iB = iter(B);\n\n\twhile (true) {\n\t\tconst a = iA.next();\n\t\tif (a.done) {\n\t\t\treturn;\n\t\t}\n\n\t\tconst b = iB.next();\n\t\tif (b.done) {\n\t\t\treturn;\n\t\t}\n\n\t\tyield [a.value, b.value];\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/_zip2.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "_zip2",
+    "memberof": "src/_zip2.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_zip2.js~_zip2",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/_zip2.js",
+    "importStyle": "_zip2",
+    "description": "Zips exactly two iterables together. Yields a tuple containing the first\nelement of each iterable, then a tupe containing the second element of each\niterable, etc.  Stops when one of the two iterables runs out of elements.",
+    "examples": [
+      "// returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\nlist( _zip2( 'abcd' , range(1, 4) ) ) ;"
+    ],
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "A",
+        "description": "The first iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "B",
+        "description": "The second iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/_ziplongest.js",
+    "content": "import {iter} from '@iterable-iterator/iter';\nimport {list} from '@iterable-iterator/list';\nimport {_next} from '@iterable-iterator/next';\nimport {map} from '@iterable-iterator/map';\nimport {repeat} from '@iterable-iterator/repeat';\nimport enumerate from './enumerate.js';\n\n/**\n * Same as _zip, but continues to yield zipped tuples until the last iterable is\n * exhausted.\n *\n * @example\n * // returns [['A','x'],['B','y'],['C','-'],['D','-']]\n * list( _ziplongest( '-' , [ 'ABCD', 'xy' ] ) ) ;\n *\n * @param {any} fillvalue - The value to yield for iterators that are exhausted.\n * @param {Iterable[]} iterables - The iterables to zip.\n * @returns {IterableIterator}\n *\n */\nexport default function* _ziplongest(fillvalue, iterables) {\n\tlet counter = iterables.length;\n\n\tif (counter === 0) {\n\t\treturn;\n\t}\n\n\tconst filler = repeat(fillvalue);\n\n\tconst iterators = list(map(iter, iterables));\n\n\twhile (true) {\n\t\tconst buffer = [];\n\n\t\tfor (const [i, event] of enumerate(map(_next, iterators))) {\n\t\t\tif (event.done) {\n\t\t\t\t--counter;\n\t\t\t\tif (counter === 0) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\titerators[i] = filler;\n\t\t\t\tbuffer.push(fillvalue);\n\t\t\t} else {\n\t\t\t\tbuffer.push(event.value);\n\t\t\t}\n\t\t}\n\n\t\tyield buffer;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/_ziplongest.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "_ziplongest",
+    "memberof": "src/_ziplongest.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_ziplongest.js~_ziplongest",
+    "access": "private",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/_ziplongest.js",
+    "importStyle": "_ziplongest",
+    "description": "Same as _zip, but continues to yield zipped tuples until the last iterable is\nexhausted.",
+    "examples": [
+      "// returns [['A','x'],['B','y'],['C','-'],['D','-']]\nlist( _ziplongest( '-' , [ 'ABCD', 'xy' ] ) ) ;"
+    ],
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fillvalue",
+        "description": "The value to yield for iterators that are exhausted."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Iterable[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterables",
+        "description": "The iterables to zip."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/enumerate.js",
+    "content": "import {_count} from '@iterable-iterator/count';\nimport _zip2 from './_zip2.js';\n\n/**\n * Yields (index,element) tuples where the elements are taken from the input\n * iterable. You can choose the starting index. The starting index is\n * <code>0</code> by default.\n *\n * @example\n * // returns [ [ 0 , 'a' ] , [ 1 , 'b' ] , [ 2 , 'c' ] ]\n * list( enumerate( 'abc' ) ) ;\n *\n * @example\n * // returns [ [ 1 , 'a' ] , [ 2 , 'b' ] , [ 3 , 'c' ] ]\n * list( enumerate( 'abc' , 1 ) ) ;\n *\n * @param {Iterable} iterable - The input iterable.\n * @param {Number} [start=0] - The starting index.\n * @returns {IterableIterator}\n */\nexport default function enumerate(iterable, start = 0) {\n\treturn _zip2(_count(start, 1), iterable);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/enumerate.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "enumerate",
+    "memberof": "src/enumerate.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/enumerate.js~enumerate",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/enumerate.js",
+    "importStyle": "enumerate",
+    "description": "Yields (index,element) tuples where the elements are taken from the input\niterable. You can choose the starting index. The starting index is\n<code>0</code> by default.",
+    "examples": [
+      "// returns [ [ 0 , 'a' ] , [ 1 , 'b' ] , [ 2 , 'c' ] ]\nlist( enumerate( 'abc' ) ) ;",
+      "// returns [ [ 1 , 'a' ] , [ 2 , 'b' ] , [ 3 , 'c' ] ]\nlist( enumerate( 'abc' , 1 ) ) ;"
+    ],
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0",
+        "defaultRaw": 0,
+        "name": "start",
+        "description": "The starting index."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as _zip} from './_zip.js';\nexport {default as _zip2} from './_zip2.js';\nexport {default as _ziplongest} from './_ziplongest.js';\nexport {default as enumerate} from './enumerate.js';\nexport {default as zip} from './zip.js';\nexport {default as ziplongest} from './ziplongest.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/zip.js",
+    "content": "import _zip from './_zip.js';\n\n/**\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n */\nexport default function zip(...iterables) {\n\treturn _zip(iterables);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/zip.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "zip",
+    "memberof": "src/zip.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/zip.js~zip",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/zip.js",
+    "importStyle": "zip",
+    "description": "Zips iterables together. Yields a tuple containing the first element of each\niterable, then a tupe containing the second element of each iterable, etc.\nStops when one of the iterables runs out of elements.",
+    "examples": [
+      "// returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\nlist( zip( 'abcd' , range(3) ) ) ;"
+    ],
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "...Iterable"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "iterables",
+        "description": "The iterables to zip."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/ziplongest.js",
+    "content": "import _ziplongest from './_ziplongest.js';\n\n/**\n * Same as zip, but continues to yield zipped tuples until the last iterable is\n * exhausted.\n *\n * @example\n * // returns [['A','x'],['B','y'],['C','-'],['D','-']]\n * list( ziplongest( '-' , 'ABCD', 'xy' ) ) ;\n *\n * @param {any} fillvalue - The value to yield for iterators that are exhausted.\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n *\n */\nexport default function ziplongest(fillvalue, ...iterables) {\n\treturn _ziplongest(fillvalue, iterables);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/zip/zip/src/ziplongest.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "ziplongest",
+    "memberof": "src/ziplongest.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/ziplongest.js~ziplongest",
+    "access": "public",
+    "export": true,
+    "importPath": "@iterable-iterator/zip/src/ziplongest.js",
+    "importStyle": "ziplongest",
+    "description": "Same as zip, but continues to yield zipped tuples until the last iterable is\nexhausted.",
+    "examples": [
+      "// returns [['A','x'],['B','y'],['C','-'],['D','-']]\nlist( ziplongest( '-' , 'ABCD', 'xy' ) ) ;"
+    ],
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{IterableIterator}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fillvalue",
+        "description": "The value to yield for iterators that are exhausted."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "...Iterable"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "iterables",
+        "description": "The iterables to zip."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":zipper_mouth_face: [@iterable-iterator/zip](https://iterable-iterator.github.io/zip)\n==\n\nIterable zipping functions for JavaScript.\nSee [docs](https://iterable-iterator.github.io/zip/index.html).\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n```js\nimport {zip} from '@iterable-iterator/zip';\nzip(\"ABC\" , \"XY\") ; // AX BY\nzip(count( 0 , 1 ) , \"ABC\") ; // 0A 1B 2C\n\nimport {enumerate} from '@iterable-iterator/zip';\nenumerate(\"ABC\") ; // 0A 1B 2C\n\nimport {ziplongest} from '@iterable-iterator/zip';\nziplongest('-', count( 0 , 1 ) , \"ABC\") ; // 0A 1B 2C 3- 4- ...\n```\n\n[![License](https://img.shields.io/github/license/iterable-iterator/zip.svg)](https://raw.githubusercontent.com/iterable-iterator/zip/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@iterable-iterator/zip.svg)](https://www.npmjs.org/package/@iterable-iterator/zip)\n[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/zip/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/zip/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/iterable-iterator/zip.svg)](https://david-dm.org/iterable-iterator/zip)\n[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/zip.svg)](https://david-dm.org/iterable-iterator/zip?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/zip.svg)](https://github.com/iterable-iterator/zip/issues)\n[![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/zip.svg)](https://www.npmjs.org/package/@iterable-iterator/zip)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/iterable-iterator/zip.svg)](https://codeclimate.com/github/iterable-iterator/zip/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/iterable-iterator/zip.svg)](https://codeclimate.com/github/iterable-iterator/zip/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/iterable-iterator/zip/main.svg)](https://codecov.io/gh/iterable-iterator/zip)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/iterable-iterator/zip.svg)](https://codeclimate.com/github/iterable-iterator/zip/trends/technical_debt)\n[![Documentation](https://iterable-iterator.github.io/zip/badge.svg)](https://iterable-iterator.github.io/zip/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@iterable-iterator/zip)](https://bundlephobia.com/result?p=@iterable-iterator/zip)\n",
+    "longname": "/home/runner/work/zip/zip/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@iterable-iterator/zip\",\n  \"description\": \"Iterable zipping functions for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://iterable-iterator.github.io/zip\",\n  \"repository\": {\n    \"url\": \"https://github.com/iterable-iterator/zip\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/iterable-iterator/zip/issues\"\n  },\n  \"keywords\": [\n    \"iter\",\n    \"iterable\",\n    \"iterator\",\n    \"zip\",\n    \"ziplongest\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {\n    \"@iterable-iterator/count\": \"^0.0.1\",\n    \"@iterable-iterator/iter\": \"^0.0.2\",\n    \"@iterable-iterator/list\": \"^0.0.2\",\n    \"@iterable-iterator/map\": \"^0.0.1\",\n    \"@iterable-iterator/next\": \"^1.0.0\",\n    \"@iterable-iterator/repeat\": \"^0.0.1\"\n  },\n  \"devDependencies\": {\n    \"@babel/core\": \"7.13.15\",\n    \"@babel/preset-env\": \"7.13.15\",\n    \"@babel/register\": \"7.13.14\",\n    \"@commitlint/cli\": \"12.1.1\",\n    \"@functional-abstraction/operator\": \"^1.0.4\",\n    \"@iterable-iterator/chain\": \"^1.0.0\",\n    \"@iterable-iterator/range\": \"^1.0.0\",\n    \"@iterable-iterator/reduce\": \"^0.0.1\",\n    \"@iterable-iterator/slice\": \"^0.0.1\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"@total-order/primitive\": \"^0.0.2\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.7.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"6.0.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.4.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.38.2\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": [\n        \"error\",\n        {\n          \"cases\": {\n            \"camelCase\": true,\n            \"pascalCase\": true\n          }\n        }\n      ]\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/zip/zip/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/zip/zip/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/zip/zip/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @iterable-iterator/zip\n```\n\n### npm\n```terminal\nnpm install @iterable-iterator/zip --save\n```\n\n### jspm\n```terminal\njspm install npm:@iterable-iterator/zip\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/zip/zip/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' ) ;\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst zip = require( '@iterable-iterator/zip' ) ;\n// or\nimport * as zip from '@iterable-iterator/zip' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/zip/zip/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/iterable-iterator/zip/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
