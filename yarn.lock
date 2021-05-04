@@ -1298,6 +1298,11 @@
   dependencies:
     "@failure-abstraction/error" "^5.0.5"
 
+"@iterable-iterator/range@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
+  integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
+
 "@iterable-iterator/reduce@^0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/reduce/-/reduce-0.0.1.tgz#35cf9b9c27afcdc1ebcd1a8d1f58162e8abd6290"

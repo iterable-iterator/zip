@@ -7,7 +7,7 @@ import {iter} from '@iterable-iterator/iter';
  *
  * @example
  * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]
- * list( _zip2( 'abcd' , range(3) ) ) ;
+ * list( _zip2( 'abcd' , range(1, 4) ) ) ;
  *
  * @param {Iterable} A - The first iterable.
  * @param {Iterable} B - The second iterable.
