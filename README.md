@@ -12,6 +12,12 @@ See [docs](https://iterable-iterator.github.io/zip/index.html).
 import {zip} from '@iterable-iterator/zip';
 zip("ABC" , "XY") ; // AX BY
 zip(count( 0 , 1 ) , "ABC") ; // 0A 1B 2C
+
+import {enumerate} from '@iterable-iterator/zip';
+enumerate("ABC") ; // 0A 1B 2C
+
+import {ziplongest} from '@iterable-iterator/zip';
+ziplongest('-', count( 0 , 1 ) , "ABC") ; // 0A 1B 2C 3- 4- ...
 ```
 
 [![License](https://img.shields.io/github/license/iterable-iterator/zip.svg)](https://raw.githubusercontent.com/iterable-iterator/zip/main/LICENSE)
