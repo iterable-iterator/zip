@@ -4,12 +4,15 @@
 Iterable zipping functions for JavaScript.
 See [docs](https://iterable-iterator.github.io/zip/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import {zip} from '@iterable-iterator/zip';
+zip("ABC" , "XY") ; // AX BY
+zip(count( 0 , 1 ) , "ABC") ; // 0A 1B 2C
+```
 
 [![License](https://img.shields.io/github/license/iterable-iterator/zip.svg)](https://raw.githubusercontent.com/iterable-iterator/zip/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/zip.svg)](https://www.npmjs.org/package/@iterable-iterator/zip)
