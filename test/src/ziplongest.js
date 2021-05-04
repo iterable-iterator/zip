@@ -10,86 +10,93 @@ import {increasing} from '@total-order/primitive';
 
 import {ziplongest} from '../../src/index.js';
 
-test('ziplongest', (t) => {
-	const x = function (fillvalue, iterables, out) {
-		t.deepEqual(list(ziplongest(fillvalue, ...iterables)), out);
+import {repr} from './_fixtures.js';
 
-		const extend = function* (fillvalue, iterables) {
-			// Makes all the inputs have the same length
-			// (max length among all iterables)
+const macro = (t, fillvalue, iterables, out) => {
+	t.deepEqual(list(ziplongest(fillvalue, ...iterables)), out);
 
-			if (len(iterables) === 0) {
-				return;
-			}
+	const extend = function* (fillvalue, iterables) {
+		// Makes all the inputs have the same length
+		// (max length among all iterables)
 
-			const n = max(increasing, map(len, iterables));
+		if (len(iterables) === 0) {
+			return;
+		}
 
-			for (const iterable of iterables) {
-				yield chain(iterable, nrepeat(fillvalue, n - iterable.length));
-			}
-		};
+		const n = max(increasing, map(len, iterables));
 
-		const unzipped = list(map(list, extend(fillvalue, iterables)));
-
-		t.deepEqual(list(ziplongest(fillvalue, ...out)), unzipped);
+		for (const iterable of iterables) {
+			yield chain(iterable, nrepeat(fillvalue, n - iterable.length));
+		}
 	};
 
-	const w = Math.random();
+	const unzipped = list(map(list, extend(fillvalue, iterables)));
 
-	x(w, [], []);
-	x(w, [[1]], [[1]]);
-	x(w, [[1, 2, 3]], [[1], [2], [3]]);
-	x(
-		w,
-		[
-			[1, 2, 3],
-			[4, 5, 6],
-		],
-		[
-			[1, 4],
-			[2, 5],
-			[3, 6],
-		],
-	);
-	x(
-		w,
-		[
-			[1, 2, 3],
-			[4, 5, 6],
-			[7, 8, 9],
-		],
-		[
-			[1, 4, 7],
-			[2, 5, 8],
-			[3, 6, 9],
-		],
-	);
-	x(
-		w,
-		[
-			[1, 2, 3],
-			[4, 5, 6],
-			[7, 8, 9, 10],
-		],
-		[
-			[1, 4, 7],
-			[2, 5, 8],
-			[3, 6, 9],
-			[w, w, 10],
-		],
-	);
-	x(
-		w,
-		[
-			[1, 2, 3, 4],
-			[4, 5, 6],
-			[7, 8, 9],
-		],
-		[
-			[1, 4, 7],
-			[2, 5, 8],
-			[3, 6, 9],
-			[4, w, w],
-		],
-	);
-});
+	t.deepEqual(list(ziplongest(fillvalue, ...out)), unzipped);
+};
+
+macro.title = (title, fillvalue, iterables, out) =>
+	title ?? `ziplongest(${fillvalue}, ...${repr(iterables)}) is ${repr(out)}`;
+
+const w = Math.random();
+
+test(macro, w, [], []);
+test(macro, w, [[1]], [[1]]);
+test(macro, w, [[1, 2, 3]], [[1], [2], [3]]);
+test(
+	macro,
+	w,
+	[
+		[1, 2, 3],
+		[4, 5, 6],
+	],
+	[
+		[1, 4],
+		[2, 5],
+		[3, 6],
+	],
+);
+test(
+	macro,
+	w,
+	[
+		[1, 2, 3],
+		[4, 5, 6],
+		[7, 8, 9],
+	],
+	[
+		[1, 4, 7],
+		[2, 5, 8],
+		[3, 6, 9],
+	],
+);
+test(
+	macro,
+	w,
+	[
+		[1, 2, 3],
+		[4, 5, 6],
+		[7, 8, 9, 10],
+	],
+	[
+		[1, 4, 7],
+		[2, 5, 8],
+		[3, 6, 9],
+		[w, w, 10],
+	],
+);
+test(
+	macro,
+	w,
+	[
+		[1, 2, 3, 4],
+		[4, 5, 6],
+		[7, 8, 9],
+	],
+	[
+		[1, 4, 7],
+		[2, 5, 8],
+		[3, 6, 9],
+		[4, w, w],
+	],
+);
