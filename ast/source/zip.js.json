@@ -1,28 +1,28 @@
 {
   "type": "File",
   "start": 0,
-  "end": 523,
+  "end": 528,
   "loc": {
     "start": {
       "line": 1,
       "column": 0
     },
     "end": {
-      "line": 19,
+      "line": 18,
       "column": 0
     }
   },
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 523,
+    "end": 528,
     "loc": {
       "start": {
         "line": 1,
         "column": 0
       },
       "end": {
-        "line": 19,
+        "line": 18,
         "column": 0
       }
     },
@@ -99,16 +99,16 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n ",
+            "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n ",
             "start": 31,
-            "end": 451,
+            "end": 456,
             "loc": {
               "start": {
                 "line": 3,
                 "column": 0
               },
               "end": {
-                "line": 15,
+                "line": 14,
                 "column": 3
               }
             }
@@ -117,43 +117,43 @@
       },
       {
         "type": "ExportDefaultDeclaration",
-        "start": 452,
-        "end": 522,
+        "start": 457,
+        "end": 527,
         "loc": {
           "start": {
-            "line": 16,
+            "line": 15,
             "column": 0
           },
           "end": {
-            "line": 18,
+            "line": 17,
             "column": 1
           }
         },
         "declaration": {
           "type": "FunctionDeclaration",
-          "start": 467,
-          "end": 522,
+          "start": 472,
+          "end": 527,
           "loc": {
             "start": {
-              "line": 16,
+              "line": 15,
               "column": 15
             },
             "end": {
-              "line": 18,
+              "line": 17,
               "column": 1
             }
           },
           "id": {
             "type": "Identifier",
-            "start": 476,
-            "end": 479,
+            "start": 481,
+            "end": 484,
             "loc": {
               "start": {
-                "line": 16,
+                "line": 15,
                 "column": 24
               },
               "end": {
-                "line": 16,
+                "line": 15,
                 "column": 27
               },
               "identifierName": "zip"
@@ -167,29 +167,29 @@
           "params": [
             {
               "type": "RestElement",
-              "start": 480,
-              "end": 492,
+              "start": 485,
+              "end": 497,
               "loc": {
                 "start": {
-                  "line": 16,
+                  "line": 15,
                   "column": 28
                 },
                 "end": {
-                  "line": 16,
+                  "line": 15,
                   "column": 40
                 }
               },
               "argument": {
                 "type": "Identifier",
-                "start": 483,
-                "end": 492,
+                "start": 488,
+                "end": 497,
                 "loc": {
                   "start": {
-                    "line": 16,
+                    "line": 15,
                     "column": 31
                   },
                   "end": {
-                    "line": 16,
+                    "line": 15,
                     "column": 40
                   },
                   "identifierName": "iterables"
@@ -200,58 +200,58 @@
           ],
           "body": {
             "type": "BlockStatement",
-            "start": 494,
-            "end": 522,
+            "start": 499,
+            "end": 527,
             "loc": {
               "start": {
-                "line": 16,
+                "line": 15,
                 "column": 42
               },
               "end": {
-                "line": 18,
+                "line": 17,
                 "column": 1
               }
             },
             "body": [
               {
                 "type": "ReturnStatement",
-                "start": 497,
-                "end": 520,
+                "start": 502,
+                "end": 525,
                 "loc": {
                   "start": {
-                    "line": 17,
+                    "line": 16,
                     "column": 1
                   },
                   "end": {
-                    "line": 17,
+                    "line": 16,
                     "column": 24
                   }
                 },
                 "argument": {
                   "type": "CallExpression",
-                  "start": 504,
-                  "end": 519,
+                  "start": 509,
+                  "end": 524,
                   "loc": {
                     "start": {
-                      "line": 17,
+                      "line": 16,
                       "column": 8
                     },
                     "end": {
-                      "line": 17,
+                      "line": 16,
                       "column": 23
                     }
                   },
                   "callee": {
                     "type": "Identifier",
-                    "start": 504,
-                    "end": 508,
+                    "start": 509,
+                    "end": 513,
                     "loc": {
                       "start": {
-                        "line": 17,
+                        "line": 16,
                         "column": 8
                       },
                       "end": {
-                        "line": 17,
+                        "line": 16,
                         "column": 12
                       },
                       "identifierName": "_zip"
@@ -261,15 +261,15 @@
                   "arguments": [
                     {
                       "type": "Identifier",
-                      "start": 509,
-                      "end": 518,
+                      "start": 514,
+                      "end": 523,
                       "loc": {
                         "start": {
-                          "line": 17,
+                          "line": 16,
                           "column": 13
                         },
                         "end": {
-                          "line": 17,
+                          "line": 16,
                           "column": 22
                         },
                         "identifierName": "iterables"
@@ -285,16 +285,16 @@
           "leadingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n ",
+              "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n ",
               "start": 31,
-              "end": 451,
+              "end": 456,
               "loc": {
                 "start": {
                   "line": 3,
                   "column": 0
                 },
                 "end": {
-                  "line": 15,
+                  "line": 14,
                   "column": 3
                 }
               }
@@ -305,16 +305,16 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n ",
+            "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n ",
             "start": 31,
-            "end": 451,
+            "end": 456,
             "loc": {
               "start": {
                 "line": 3,
                 "column": 0
               },
               "end": {
-                "line": 15,
+                "line": 14,
                 "column": 3
               }
             }
@@ -327,16 +327,16 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n ",
+      "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n ",
       "start": 31,
-      "end": 451,
+      "end": 456,
       "loc": {
         "start": {
           "line": 3,
           "column": 0
         },
         "end": {
-          "line": 15,
+          "line": 14,
           "column": 3
         }
       }
@@ -478,16 +478,16 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {Iterator}\n *\n ",
+      "value": "*\n * Zips iterables together. Yields a tuple containing the first element of each\n * iterable, then a tupe containing the second element of each iterable, etc.\n * Stops when one of the iterables runs out of elements.\n *\n * @example\n * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]\n * list( zip( 'abcd' , range(3) ) ) ;\n *\n * @param {...Iterable} iterables - The iterables to zip.\n * @returns {IterableIterator}\n ",
       "start": 31,
-      "end": 451,
+      "end": 456,
       "loc": {
         "start": {
           "line": 3,
           "column": 0
         },
         "end": {
-          "line": 15,
+          "line": 14,
           "column": 3
         }
       }
@@ -507,15 +507,15 @@
         "updateContext": null
       },
       "value": "export",
-      "start": 452,
-      "end": 458,
+      "start": 457,
+      "end": 463,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 0
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 6
         }
       }
@@ -535,15 +535,15 @@
         "updateContext": null
       },
       "value": "default",
-      "start": 459,
-      "end": 466,
+      "start": 464,
+      "end": 471,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 7
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 14
         }
       }
@@ -562,15 +562,15 @@
         "binop": null
       },
       "value": "function",
-      "start": 467,
-      "end": 475,
+      "start": 472,
+      "end": 480,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 15
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 23
         }
       }
@@ -588,15 +588,15 @@
         "binop": null
       },
       "value": "zip",
-      "start": 476,
-      "end": 479,
+      "start": 481,
+      "end": 484,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 24
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 27
         }
       }
@@ -613,15 +613,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 479,
-      "end": 480,
+      "start": 484,
+      "end": 485,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 27
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 28
         }
       }
@@ -639,15 +639,15 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 480,
-      "end": 483,
+      "start": 485,
+      "end": 488,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 28
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 31
         }
       }
@@ -665,15 +665,15 @@
         "binop": null
       },
       "value": "iterables",
-      "start": 483,
-      "end": 492,
+      "start": 488,
+      "end": 497,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 31
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 40
         }
       }
@@ -690,15 +690,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 492,
-      "end": 493,
+      "start": 497,
+      "end": 498,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 40
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 41
         }
       }
@@ -715,15 +715,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 494,
-      "end": 495,
+      "start": 499,
+      "end": 500,
       "loc": {
         "start": {
-          "line": 16,
+          "line": 15,
           "column": 42
         },
         "end": {
-          "line": 16,
+          "line": 15,
           "column": 43
         }
       }
@@ -743,15 +743,15 @@
         "updateContext": null
       },
       "value": "return",
-      "start": 497,
-      "end": 503,
+      "start": 502,
+      "end": 508,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 1
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 7
         }
       }
@@ -769,15 +769,15 @@
         "binop": null
       },
       "value": "_zip",
-      "start": 504,
-      "end": 508,
+      "start": 509,
+      "end": 513,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 8
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 12
         }
       }
@@ -794,15 +794,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 508,
-      "end": 509,
+      "start": 513,
+      "end": 514,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 12
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 13
         }
       }
@@ -820,15 +820,15 @@
         "binop": null
       },
       "value": "iterables",
-      "start": 509,
-      "end": 518,
+      "start": 514,
+      "end": 523,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 13
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 22
         }
       }
@@ -845,15 +845,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 518,
-      "end": 519,
+      "start": 523,
+      "end": 524,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 22
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 23
         }
       }
@@ -871,15 +871,15 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 519,
-      "end": 520,
+      "start": 524,
+      "end": 525,
       "loc": {
         "start": {
-          "line": 17,
+          "line": 16,
           "column": 23
         },
         "end": {
-          "line": 17,
+          "line": 16,
           "column": 24
         }
       }
@@ -896,15 +896,15 @@
         "postfix": false,
         "binop": null
       },
-      "start": 521,
-      "end": 522,
+      "start": 526,
+      "end": 527,
       "loc": {
         "start": {
-          "line": 18,
+          "line": 17,
           "column": 0
         },
         "end": {
-          "line": 18,
+          "line": 17,
           "column": 1
         }
       }
@@ -922,15 +922,15 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 523,
-      "end": 523,
+      "start": 528,
+      "end": 528,
       "loc": {
         "start": {
-          "line": 19,
+          "line": 18,
           "column": 0
         },
         "end": {
-          "line": 19,
+          "line": 18,
           "column": 0
         }
       }
