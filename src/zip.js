@@ -10,8 +10,7 @@ import _zip from './_zip.js';
  * list( zip( 'abcd' , range(3) ) ) ;
  *
  * @param {...Iterable} iterables - The iterables to zip.
- * @returns {Iterator}
- *
+ * @returns {IterableIterator}
  */
 export default function zip(...iterables) {
 	return _zip(iterables);

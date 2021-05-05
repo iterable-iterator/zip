@@ -15,7 +15,7 @@ import _zip2 from './_zip2.js';
  * list( enumerate( 'abc' , 1 ) ) ;
  *
  * @param {Iterable} iterable - The input iterable.
- * @param {Number} [start=0] - The starting index.
+ * @param {number} [start=0] - The starting index.
  * @returns {IterableIterator}
  */
 export default function enumerate(iterable, start = 0) {
