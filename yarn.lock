@@ -2139,10 +2139,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@total-order/primitive@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-0.0.2.tgz#0c2925de9b80e0d43f1ffc1ec4e5ded7f69b6100"
-  integrity sha512-u0qradNHAUOn7pZGbcpz7xK/Wb8Ic0w5DtFWcNC+mcJ/QgURr+4ovQ0OkOj4XcK0/5lks78fMnQxOa5yOJERwg==
+"@total-order/primitive@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-1.0.0.tgz#e459288116d5a68b420920d4e7de5cd7689e5cb7"
+  integrity sha512-egH1HiytKU1T8osp0jgiKOm/fKmDeCK58I/CN2cnEvewPpmDa7PT8hoHpVrq8ru396GoP/nvSPg6YqD/gF9RNw==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.1"
