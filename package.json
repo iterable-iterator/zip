@@ -72,7 +72,7 @@
     "@babel/preset-env": "7.14.7",
     "@babel/register": "7.14.5",
     "@commitlint/cli": "12.1.4",
-    "@functional-abstraction/operator": "1.0.4",
+    "@functional-abstraction/operator": "2.0.0",
     "@iterable-iterator/chain": "1.0.0",
     "@iterable-iterator/range": "1.0.0",
     "@iterable-iterator/reduce": "0.0.1",

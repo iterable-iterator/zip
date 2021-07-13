@@ -1935,10 +1935,10 @@
   resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.5.tgz#0cf54ae8f76a025a8df015acd958192fb29a5e9a"
   integrity sha512-1wYCScLBgVzSrXWDNg6KqZPCTtrbduDIxGGx3OXfGXQgWusFC8vdgKL6XLycAgsv3FRx8jardWQGYnEHUCccQQ==
 
-"@functional-abstraction/operator@1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@functional-abstraction/operator/-/operator-1.0.4.tgz#6bcc9ef381fd8897f8fa2f10a05df208558e9519"
-  integrity sha512-YtWuVroQ4l9YXSu8E0PqVguI/5jf2O34lMa3KILPT7zAsCWrC+2hGDHd58FJu5FIej8V5cRgRvczSsf/vmTXNw==
+"@functional-abstraction/operator@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@functional-abstraction/operator/-/operator-2.0.0.tgz#2a3d1ff96d512436154a81ca5a2115c01a4a25d5"
+  integrity sha512-0G6kiCf87IdYoETEKkfz/W+Xt8ZjG/Ch3z5YrdEltcUuQ8YiKchoY27LXF4tfOLHlVPiOD8iHPFv3lFYrBn3kg==
 
 "@istanbuljs/schema@^0.1.2":
   version "0.1.3"
