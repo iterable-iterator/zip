@@ -1475,10 +1475,10 @@
   dependencies:
     "@iterable-iterator/iter" "^1.0.1"
 
-"@iterable-iterator/repeat@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/repeat/-/repeat-1.0.0.tgz#5ac94b179ce2abaaa7365d5e25af1f3ca8089e4a"
-  integrity sha512-Dbm6uKFTyrnn1FUM2451m9FQG9YBpHabSP4gRnvygO+jqqiuLpPDEf6s/4eambTC9loRq14Dp3PG4nFXMOalKA==
+"@iterable-iterator/repeat@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/repeat/-/repeat-1.0.1.tgz#7724b993a80c014483c4f0d37c503ee460ac7b6d"
+  integrity sha512-xwkIHYQNvxQvA8nMYrev41iCmokXosojMpHEfME8Q8ubzEQlsYS8rSqiydgMYPu/lPg1MyYRVzWazFDAShTwtg==
 
 "@iterable-iterator/slice@1.0.1":
   version "1.0.1"
@@ -1620,10 +1620,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@total-order/primitive@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-1.0.0.tgz#e459288116d5a68b420920d4e7de5cd7689e5cb7"
-  integrity sha512-egH1HiytKU1T8osp0jgiKOm/fKmDeCK58I/CN2cnEvewPpmDa7PT8hoHpVrq8ru396GoP/nvSPg6YqD/gF9RNw==
+"@total-order/primitive@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@total-order/primitive/-/primitive-1.0.1.tgz#7e409d303a2a3b24ed2af30bd9068027d6a4a326"
+  integrity sha512-BXCXyXoQIpdwFkplPRTuxFB0I1GHHia4t22bLAEqjdk48DFwQMwSbHq1EdLA81X/eFC/b6RdVxG4Q+WEcfs0aA==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.1"
