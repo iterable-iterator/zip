@@ -1,9 +1,8 @@
 import test from 'ava';
 
-import {repr} from './_fixtures.js';
-
 import {list} from '@iterable-iterator/list';
 import {enumerate} from '../../src/index.js';
+import {repr} from './_fixtures.js';
 
 const macro = (t, iterable, expected) => {
 	t.deepEqual(list(enumerate(iterable)), expected);
