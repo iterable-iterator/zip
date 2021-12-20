@@ -2,8 +2,8 @@ import {iter} from '@iterable-iterator/iter';
 
 /**
  * Zips exactly two iterables together. Yields a tuple containing the first
- * element of each iterable, then a tupe containing the second element of each
- * iterable, etc.  Stops when one of the two iterables runs out of elements.
+ * element of each iterable, then a tuple containing the second element of each
+ * iterable, etc. Stops when one of the two iterables runs out of elements.
  *
  * @example
  * // returns [ [ 'a' , 1 ] , [ 'b' , 2 ] , [ 'c' , 3 ] ]
