@@ -23,8 +23,7 @@ ziplongest('-', count( 0 , 1 ) , "ABC") ; // 0A 1B 2C 3- 4- ...
 [![License](https://img.shields.io/github/license/iterable-iterator/zip.svg)](https://raw.githubusercontent.com/iterable-iterator/zip/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/zip.svg)](https://www.npmjs.org/package/@iterable-iterator/zip)
 [![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/zip/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/zip/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/iterable-iterator/zip.svg)](https://david-dm.org/iterable-iterator/zip)
-[![Dev dependencies](https://img.shields.io/david/dev/iterable-iterator/zip.svg)](https://david-dm.org/iterable-iterator/zip?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/zip.svg)](https://github.com/iterable-iterator/zip/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/zip.svg)](https://github.com/iterable-iterator/zip/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/zip.svg)](https://www.npmjs.org/package/@iterable-iterator/zip)
 
