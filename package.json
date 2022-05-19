@@ -70,8 +70,8 @@
     "@iterable-iterator/repeat": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.17.12",
-    "@babel/preset-env": "7.17.12",
+    "@babel/core": "7.18.0",
+    "@babel/preset-env": "7.18.0",
     "@babel/register": "7.17.7",
     "@commitlint/cli": "17.0.0",
     "@functional-abstraction/operator": "3.0.0",
