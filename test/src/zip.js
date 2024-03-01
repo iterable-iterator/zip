@@ -7,9 +7,8 @@ import {min} from '@iterable-iterator/reduce';
 import {take} from '@iterable-iterator/slice';
 import {increasing} from '@total-order/primitive';
 
-import {zip} from '../../src/index.js';
-
 import {repr} from './_fixtures.js';
+import {zip} from '#module';
 
 const macro = (t, iterables, out) => {
 	t.deepEqual(list(zip(...iterables)), out);

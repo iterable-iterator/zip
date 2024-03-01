@@ -3,9 +3,8 @@ import test from 'ava';
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
-import {_zip2} from '../../src/index.js';
-
 import {repr} from './_fixtures.js';
+import {_zip2} from '#module';
 
 const macro = (t, first, second, out) => {
 	t.deepEqual(list(_zip2(first, second)), out);

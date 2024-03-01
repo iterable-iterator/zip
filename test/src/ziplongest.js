@@ -8,9 +8,8 @@ import {chain} from '@iterable-iterator/chain';
 import {nrepeat} from '@iterable-iterator/repeat';
 import {increasing} from '@total-order/primitive';
 
-import {ziplongest} from '../../src/index.js';
-
 import {repr} from './_fixtures.js';
+import {ziplongest} from '#module';
 
 const macro = (t, fillvalue, iterables, out) => {
 	t.deepEqual(list(ziplongest(fillvalue, ...iterables)), out);
