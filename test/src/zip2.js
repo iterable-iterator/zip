@@ -4,6 +4,7 @@ import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 
 import {repr} from './_fixtures.js';
+
 import {_zip2} from '#module';
 
 const macro = (t, first, second, out) => {

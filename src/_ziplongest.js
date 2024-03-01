@@ -1,8 +1,9 @@
 import {iter} from '@iterable-iterator/iter';
 import {list} from '@iterable-iterator/list';
-import {_next} from '@iterable-iterator/next';
 import {map} from '@iterable-iterator/map';
+import {_next} from '@iterable-iterator/next';
 import {repeat} from '@iterable-iterator/repeat';
+
 import enumerate from './enumerate.js';
 
 /**

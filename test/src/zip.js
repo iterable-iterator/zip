@@ -8,6 +8,7 @@ import {take} from '@iterable-iterator/slice';
 import {increasing} from '@total-order/primitive';
 
 import {repr} from './_fixtures.js';
+
 import {zip} from '#module';
 
 const macro = (t, iterables, out) => {

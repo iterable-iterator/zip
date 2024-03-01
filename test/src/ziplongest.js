@@ -1,14 +1,15 @@
 import test from 'ava';
 
 import {len} from '@functional-abstraction/operator';
+import {chain} from '@iterable-iterator/chain';
 import {list} from '@iterable-iterator/list';
 import {map} from '@iterable-iterator/map';
 import {max} from '@iterable-iterator/reduce';
-import {chain} from '@iterable-iterator/chain';
 import {nrepeat} from '@iterable-iterator/repeat';
 import {increasing} from '@total-order/primitive';
 
 import {repr} from './_fixtures.js';
+
 import {ziplongest} from '#module';
 
 const macro = (t, fillvalue, iterables, out) => {
